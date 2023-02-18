@@ -1,3 +1,4 @@
+#寻找几个字符串的公共前缀
 n = int(input())
 strlist = [input() for i in range (n)]
 public = []

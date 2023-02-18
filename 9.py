@@ -1,3 +1,4 @@
+#判断数字的二进制是否全为1
 N = int(input())
 List = []
 for i in range(N):

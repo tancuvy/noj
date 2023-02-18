@@ -1,3 +1,4 @@
+#一种简单的加密算法，余数只能是一位
 a = int(input())
 b = int(input())
 c = int(input())
