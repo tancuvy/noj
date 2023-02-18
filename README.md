@@ -1,0 +1,2 @@
+# noj
+python exercise
